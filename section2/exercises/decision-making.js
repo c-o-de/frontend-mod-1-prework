@@ -39,15 +39,31 @@ Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
+This is an "if/else" statement.  If we go through door #1 the value of the bearClothing variable will be assigned to a "hat",
+and we go through a different door it will become a "scarf".
+
 2. What variable has a new value assigned to it after the first if statement executes?
+
+bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
+"scarf"
+
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
+
+This is an if/else statement.  The variable "bearChoice" determines the action that will follow depending
+on the value of this vaiable.  As the variable bearChoice changes, different things will get printed.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
+"You run as fast as you can into the next room. It's full of snakes!"
+
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
+You tell the bear the "hat" is too small and it starts to cry!
+
 7. What is your favorite ending?
+
+I'd be curios to see a bear crying over its outfit.
 */
