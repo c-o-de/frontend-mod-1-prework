@@ -21,6 +21,32 @@ Make sure to run the file with node in your command line.
 
 // Prompt 3: Shirt
 
+class Dog {
+
+}
+
+var dog1 = new Dog();
+var dog2 = new Dog();
+console.log(dog1);
+console.log(dog2);
+
+class Snack {
+
+}
+var snack1 = new Snack();
+var snack2 = new Snack();
+
+console.log(snack1);
+console.log(snack2);
+class Shirt {
+
+}
+var shirt1 = new Shirt();
+var shirt2 = new Shirt();
+console.log(shirt1);
+console.log(shirt2);
+
+
 //-------------------
 // Part 2: Properties
 //-------------------
@@ -37,6 +63,42 @@ Make sure to run the file with node in your command line.
 // Prompt 2: Snack
 
 // Prompt 3: Shirt
+class Dog {
+constructor() {
+  this.weightLbs = 34;
+  this.color = "white";
+  this.heightInches = 19;
+  }
+}
+
+var dog1 = new Dog();
+console.log(dog1);
+
+
+
+class Snack {
+constructor() {
+  this.flavor = 'sweet';
+  this.texture = 'soft';
+  this.fresh = true;
+  }
+}
+var snack1 = new Snack();
+console.log(snack1);
+
+
+
+
+class Shirt {
+constructor() {
+  this.color = 'blue';
+  this.size = 'XXL';
+  this.material = 'cotton';
+}
+  }
+var shirt1 = new Shirt();
+console.log(shirt1);
+
 
 //-------------------
 // Part 3: Dynamic Properties
@@ -55,3 +117,44 @@ Make sure to run the file with node in your command line.
 // Prompt 2: Snack
 
 // Prompt 3: Shirt
+class Dog {
+constructor(weightLbs, furColor, heightInInches) {
+  this.weight = weightLbs;
+  this.color = furColor;
+  this.height = heightInInches;
+  }
+}
+
+var dog1 = new Dog(55, 'black', 17);
+ console.log(dog1);
+
+var dog2 = new Dog(32, 'white', 30);
+ console.log(dog2);
+
+class Snack {
+constructor(taste, texture, freshness) {
+  this.flavor = taste;
+  this.texture = texture;
+  this.fresh = freshness;
+  }
+}
+var snack1 = new Snack('bitter', 'hard', false);
+console.log(snack1);
+
+var snack2 = new Snack('sweet', 'soft', true);
+console.log(snack2);
+
+
+
+class Shirt {
+constructor(color, size, material) {
+  this.color = color;
+  this.size = size;
+  this.material = material;
+}
+  }
+var shirt1 = new Shirt('yellow', 'XL', 'silk');
+ console.log(shirt1);
+
+ var shirt2 = new Shirt('blue', 'S', 'hemp');
+ console.log(shirt2);
