@@ -18,20 +18,21 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
-- [ ] I have refactored my `section4` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section4` exercises to the best of my ability
 
 ### Time Management Prep
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
-- [ ] Study/Project work time
-- [ ] Health + Wellness
+- [x] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
+- [x] Study/Project work time
+- [x] Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+![calendar image](https://user-images.githubusercontent.com/92301713/139964971-a7347f6b-4f15-421c-ac72-f3de89754927.png)
 ![test image](https://user-images.githubusercontent.com/92301713/139954357-6b925eb8-5c00-4a46-af4e-d1e994bdb8fa.png)
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
